@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LTH_PTPMQL_BKT.props" />
+</Project>
