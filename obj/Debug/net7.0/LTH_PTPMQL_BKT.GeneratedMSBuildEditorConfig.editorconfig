@@ -24,24 +24,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LTH_PTPMQL_BKT/LTH_PTPMQL_BKT/Views/Phongban/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmdiYW5cQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/LTH_PTPMQL_BKT/LTH_PTPMQL_BKT/Views/Phongban/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmdiYW5cRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/LTH_PTPMQL_BKT/LTH_PTPMQL_BKT/Views/Phongban/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmdiYW5cRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/LTH_PTPMQL_BKT/LTH_PTPMQL_BKT/Views/Phongban/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmdiYW5cRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/LTH_PTPMQL_BKT/LTH_PTPMQL_BKT/Views/Phongban/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmdiYW5cSW5kZXguY3NodG1s
+[D:/LTH_PTPMQL_BKT/LTH_PTPMQL_BKT/Views/LTH/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTFRIXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/LTH_PTPMQL_BKT/LTH_PTPMQL_BKT/Views/Shared/Error.cshtml]
